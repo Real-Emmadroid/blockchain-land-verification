@@ -19,3 +19,5 @@ the default limit. Slower confirmations stay "pending" and finish with the Refre
 ## Other
 - `npm run db:clean-demo` removes the seeded demo owners that own nothing.
 - Never commit `.env` or the operator private key. The wallet is for test coins only.
+
+Deploys automatically from GitHub (main) to Netlify.
